@@ -14,7 +14,6 @@ This repository contains a C++ implementation of a multi-threaded exchange match
 5. [System Architecture](#system-architecture)  
    - [Data Structures](#data-structures)  
    - [Concurrency and Synchronization](#concurrency-and-synchronization)  
-6. [Testing](#testing)  
 
 ---
 
